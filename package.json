@@ -1,0 +1,28 @@
+{
+  "name": "serverCocos",
+  "version": "0.0.0",
+  "description": "My first server rpg",
+  "main": "serverCocos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naaness/serverCocos.git"
+  },
+  "keywords": [
+    "rpg",
+    "server",
+    "nodejs"
+  ],
+  "author": "naaness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naaness/serverCocos/issues"
+  },
+  "homepage": "https://github.com/naaness/serverCocos",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "socket.io": "^0.9.16"
+  }
+}
